@@ -1,0 +1,1 @@
+It is a simple black jack game. Not like the real one but you will get the taste little bit. Yoy will play against a bot. The wins and losses will be recorded but no bidding functionality is add here.
