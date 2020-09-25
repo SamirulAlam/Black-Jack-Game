@@ -1,0 +1,35 @@
+.hero-section{
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hero-section__card-container, .hero-section__button-container, .hero-section__score-container{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background: url(./images/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.hero-section__card-container div{
+    border: 1px solid black;
+    padding: 10px;
+    flex:1;
+    text-align: center;
+    height: 350px;
+}
+
+table,th,td{
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.hero-section__card-container img{
+    width: 25%;
+    padding: 10px;
+}
